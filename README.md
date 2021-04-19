@@ -1,1 +1,1 @@
-# Calculadora-em-C-Decimal-para-Bin-rio
+# Calculadora-em-C-Decimal-para-Binario
